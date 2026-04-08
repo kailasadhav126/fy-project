@@ -1,4 +1,4 @@
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:4000'
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://fy-project-1shr.onrender.com'
 
 async function request(endpoint, options = {}) {
   const token = localStorage.getItem('admin_token')
