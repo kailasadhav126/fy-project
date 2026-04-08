@@ -1,0 +1,14 @@
+id,name,nameHindi,address,latitude,longitude,capacity,total_spaces,available_spaces,price_per_hour,price_per_day,opening_hours,phone,verified
+1,Ramkund Parking,रामकुंड पार्किंग,Ramkund Road Nashik,19.9975,73.7898,150,150,85,20,150,6:00 AM - 10:00 PM,+91-253-2312001,true
+2,Panchavati Parking,पंचवटी पार्किंग,Panchavati Area Nashik,19.9900,73.7825,200,200,120,25,180,5:00 AM - 11:00 PM,+91-253-2312002,true
+3,Kumbh Mela Ground Parking,कुंभ मेला ग्राउंड पार्किंग,Kumbh Mela Ground Nashik,19.9950,73.7850,500,500,350,30,200,24 Hours,+91-253-2312003,true
+4,Dwarka Circle Parking,द्वारका सर्कल पार्किंग,Dwarka Circle Nashik,19.9850,73.7900,100,100,45,20,150,6:00 AM - 10:00 PM,+91-253-2312004,true
+5,Nashik Road Station Parking,नासिक रोड स्टेशन पार्किंग,Nashik Road Railway Station,19.9639,73.8083,300,300,180,30,200,24 Hours,+91-253-2312005,true
+6,C.B.S Parking,सी.बी.एस पार्किंग,C.B.S Area Nashik,19.9733,73.7867,120,120,65,25,180,7:00 AM - 9:00 PM,+91-253-2312006,true
+7,Tapovan Parking,तपोवन पार्किंग,Tapovan Road Nashik,19.9450,73.7950,80,80,35,20,150,6:00 AM - 10:00 PM,+91-253-2312007,true
+8,Trimbakeshwar Parking,त्रिम्बकेश्वर पार्किंग,Trimbakeshwar Road Nashik,19.9822,73.7744,150,150,90,25,180,5:00 AM - 11:00 PM,+91-253-2312008,true
+9,Civil Lines Parking,सिविल लाइन्स पार्किंग,Civil Lines Nashik,20.0100,73.7600,90,90,50,20,150,7:00 AM - 9:00 PM,+91-253-2312009,true
+10,Shalimar Parking,शालीमार पार्किंग,Shalimar Road Nashik,19.9980,73.7880,70,70,30,25,180,6:00 AM - 10:00 PM,+91-253-2312010,true
+11,Godavari Ghat Parking,गोदावरी घाट पार्किंग,Godavari Ghat Road Nashik,19.9955,73.7855,100,100,55,20,150,5:00 AM - 11:00 PM,+91-253-2312011,true
+12,Ambad Parking,अंबाड पार्किंग,Ambad Industrial Area Nashik,19.9558,73.7842,120,120,75,25,180,6:00 AM - 10:00 PM,+91-253-2312012,true
+
